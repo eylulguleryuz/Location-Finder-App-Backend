@@ -1,6 +1,6 @@
 # Location Finder App BACKEND
 This is the backend of an app that finds a user's location given by a MAC address.
-Please also refer to the app itself: https://github.com/eylulguleryuz/Location-Finder-App-
+Please also refer to the app itself: https://github.com/eylulguleryuz/Location-Finder-App
 
 ## Technical Information
 
