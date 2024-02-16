@@ -4,7 +4,7 @@ Please also refer to the app itself: https://github.com/eylulguleryuz/Location-F
 
 ## Technical Information
 
-This project implements the backend of a REST API service that provides the app with data. It uses a SpringBoot as a server. 
+This project implements the server-client architecture of a REST API service that provides the app with data. It uses a SpringBoot. 
 
 ### Usage
 
